@@ -1,0 +1,62 @@
+version control : mencatat segala aktifitas perubahan yang kita lakukan
+
+
+-mencatat histori
+-mencatat perubahan2 
+-kembali kepada keadaan tertentu
+
+kita dengan mudah hal2 yang error menjadi keaadann sebelumnya dengan mendeteksi kesalahan
+ 
+
+
+git distribusin version control
+
+-kecepatan
+desain
+sederhana
+dukungan penuh dengan pengembangan non liniern berkas
+terisfibrusi secara penuh
+mampu mennagani proyek besae seperti kornel linux secara efisien
+
+
+
+sejarah git
+
+
+git adalah tool untuk penyimpanan kernel linux, disebut git
+
+kata git berasal dari guyonanpada tahun 2005 git resmi di dimulai
+
+sistem git
+menyimpan perubahan di setiat commit damam nbentuuk snpashot of system, bukan list of changeset file
+snpashot of system = setiap kali kita mencatat semua akan direkam
+list of chanest diles : hanya file yang dirubah saja yang akan direkam
+
+alur kerja git merupakna dile nya dalam tiga kondisi : 
+
+1.working
+2.staing area
+3.comiting arealimited
+
+
+1. deteksi penambah
+2. penambahan perubahan berkas tersebut
+
+
+lokal : ruang kerja di komputer kita
+repositry : ruang kerja di komputer kita yang terkoneksi hosting
+
+
+3. berkas yang telah di commit 
+
+
+git dan github, perbedaannya : 
+git : version control
+github : versi yang interlokal
+
+
+comand : 
+git --version
+
+
+ 
