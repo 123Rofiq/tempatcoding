@@ -59,4 +59,51 @@ comand :
 git --version
 
 
+git hub ; 
+repository : 
+git --version
+git --name
+git --email
+git add
+git status
+git remote origin
+setelah membuat lokal ke ropesetory
+git pull origin 
+git fetch origin
+
+
+
+klik create new file
+isi nama file
+
+
+dari remote repository kita update masuk ke lokal kita
+
+klik : 
+ls (melihat di file lokal)
+
+klik git pull origin master
+menarik dari repeoitory ke lokal
+
+cara lain: cd ..
+fitur khusus github : 
+1. forking
+2. pull requwst
+3. watch
+4. start
+
+
+start contributing
+
+
+
+svn = sentarl server control
+git = bisa lokal dan repository/ disribution version control
+previlage 
+
+
+
+
+
+
  
